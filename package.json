@@ -11,7 +11,7 @@
     "require": "babel-loader"
   },
   "dependencies": {
-    "prepack": "^0.2.0",
+    "prepack": "github:kenaku/prepack",
     "webpack-sources": "^0.2.3"
   },
   "description": "A webpack plugin for prepack.",
